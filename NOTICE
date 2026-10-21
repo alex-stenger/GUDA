@@ -1,0 +1,9 @@
+GUDA: Unsupervised Domain Adaptation in Biomedical Images Segmentation With Guided Diffusion Generative Prior
+Copyright 2024-2026 Alexandre Stenger
+
+This project is derived from IDDM: Integrated Design Diffusion Model
+(https://github.com/chairc/Integrated-Design-Diffusion-Model), Copyright chairc,
+licensed under the Apache License, Version 2.0.
+
+The files carrying a "Modified by Alexandre Stenger for GUDA" notice were changed from the original IDDM sources.
+tools/evaluate.py, tools/sam_pseudolabels.py and scripts/ are new.
